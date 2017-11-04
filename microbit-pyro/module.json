@@ -1,0 +1,12 @@
+{
+  "name": "microbit-pyro",
+  "version": "0.0.0",
+  "bin": "./source",
+  "private": true,
+  "description": "Pyroelectric data with BLE",
+  "author": "Akanuma Hiroaki",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "microbit": "lancaster-university/microbit"
+  }
+}
